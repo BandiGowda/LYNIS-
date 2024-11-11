@@ -1,0 +1,6 @@
+1st clone the lynis in GitHub using this command.
+1.git clone https://github.com/CISOfy/lynis
+2.cd lynis
+3.lynis show commands
+4.lynis audit system
+5.lynis show test
